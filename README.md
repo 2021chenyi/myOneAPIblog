@@ -1,5 +1,5 @@
 # 前言
-- 团队名称：CY
+- 团队名称：COOC
 - 问题陈述：实现信用卡交易欺诈检测
 - 主要使用了OneAPI的Intel® Extension for Scikit-learn库
 - 主要学到了OneAPI的强大性能，对于加速确实有很大帮助。
